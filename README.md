@@ -8,16 +8,14 @@
 ## Linux
  - git clone https://github.com/sKr1pT0r/advanced_monitoring_parser.git
  - cd advanced_monitoring_parser
- - cut requirements.txt
- - Install all requirements
+ - pip install -r requirements.txt
  - python3 main.py --help
  - Good fun)
 
 ## Windows
  - Download zip archive from https://github.com/sKr1pT0r/advanced_monitoring_parser.git
  - cd advanced_monitoring_parser
- - Open file requirements.txt
- - Install all requirements
+ - pip install -r requirements.txt
  - py main.py --help
  - Good fun)
 
